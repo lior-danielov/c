@@ -1,0 +1,4 @@
+﻿  max_delivers.cpp
+C:\Users\liord\OneDrive\mego\c\homework\Max Delivers\max_delivers.cpp(39,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\liord\OneDrive\mego\c\homework\Max Delivers\max_delivers.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Max Delivers.vcxproj -> C:\Users\liord\OneDrive\mego\c\homework\Max Delivers\x64\Debug\Max Delivers.exe

@@ -1,0 +1,3 @@
+﻿  reverse_index.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\reverse_Index\reverse_index.cpp(21,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  reverse_Index.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\reverse_Index\x64\Debug\reverse_Index.exe

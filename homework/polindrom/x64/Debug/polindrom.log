@@ -1,0 +1,3 @@
+﻿  polindrom.cpp
+C:\Users\liord\OneDrive\mego\c\homework\polindrom\polindrom.cpp(7,6): warning C4101: 'i': unreferenced local variable
+  polindrom.vcxproj -> C:\Users\liord\OneDrive\mego\c\homework\polindrom\x64\Debug\polindrom.exe

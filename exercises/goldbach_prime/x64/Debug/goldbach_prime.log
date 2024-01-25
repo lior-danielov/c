@@ -1,0 +1,3 @@
+﻿  goldbach_prime.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\goldbach_prime\goldbach_prime.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  goldbach_prime.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\goldbach_prime\x64\Debug\goldbach_prime.exe

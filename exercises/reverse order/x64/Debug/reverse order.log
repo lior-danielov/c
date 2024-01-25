@@ -1,0 +1,4 @@
+﻿  reverse_order.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\reverse order\reverse_order.cpp(37,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\liord\OneDrive\mego\c\exercises\reverse order\reverse_order.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  reverse order.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\reverse order\x64\Debug\reverse order.exe

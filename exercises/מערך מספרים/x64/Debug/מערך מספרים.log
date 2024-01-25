@@ -1,0 +1,4 @@
+﻿  array numbers.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\מערך מספרים\array numbers.cpp(36,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\liord\OneDrive\mego\c\exercises\מערך מספרים\array numbers.cpp(46,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  מערך מספרים.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\מערך מספרים\x64\Debug\מערך מספרים.exe

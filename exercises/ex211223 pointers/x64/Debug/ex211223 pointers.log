@@ -1,0 +1,6 @@
+﻿  pointers.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\ex211223 pointers\pointers.cpp(77,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\liord\OneDrive\mego\c\exercises\ex211223 pointers\pointers.cpp(77,16): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'int'
+C:\Users\liord\OneDrive\mego\c\exercises\ex211223 pointers\pointers.cpp(80,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\liord\OneDrive\mego\c\exercises\ex211223 pointers\pointers.cpp(82,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ex211223 pointers.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\ex211223 pointers\x64\Debug\ex211223 pointers.exe

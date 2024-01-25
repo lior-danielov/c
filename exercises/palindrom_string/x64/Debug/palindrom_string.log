@@ -1,0 +1,4 @@
+﻿  palindrom.cpp
+C:\Users\liord\OneDrive\mego\c\exercises\palindrom_string\palindrom.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\liord\OneDrive\mego\c\exercises\palindrom_string\palindrom.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  palindrom_string.vcxproj -> C:\Users\liord\OneDrive\mego\c\exercises\palindrom_string\x64\Debug\palindrom_string.exe
