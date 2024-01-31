@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="palindrom.cpp">
+    <ClCompile Include="palindrom string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
